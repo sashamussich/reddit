@@ -23,6 +23,7 @@ class LinksController < ApplicationController
   def edit
   end
 
+
   # POST /links
   # POST /links.json
   def create
